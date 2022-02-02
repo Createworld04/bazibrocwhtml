@@ -11,6 +11,6 @@ Credit: Darkprince(https://github.com/DaruaraFriends)
 ### Heroku
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hyko-xd/CareerwillHTML)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BAZIIBRO/CareerwillHTML)
 
 
